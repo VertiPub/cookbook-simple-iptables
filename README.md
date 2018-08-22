@@ -1,3 +1,5 @@
+# This repository has been archived.
+
 [![Build Status](https://secure.travis-ci.org/dcrosta/cookbook-simple-iptables.png?branch=master)](http://travis-ci.org/dcrosta/cookbook-simple-iptables)
 
 Description
